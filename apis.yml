@@ -1,0 +1,72 @@
+aid: moxion-power
+name: Moxion Power
+description: >-
+  Moxion Power was a Richmond, California-based mobile battery energy storage
+  (BESS) company founded in 2020 that designed, manufactured, and deployed
+  large-scale mobile lithium-iron-phosphate battery units (the MP-75 and
+  related platforms) intended to displace diesel generators across construction
+  sites, film and television production, live events, utility work, and
+  emergency response. The company built a 40,000 square-foot factory in
+  Richmond, raised approximately $100 million in a Series B at a reported
+  $1.5 billion valuation led by Tamarack Global with participation from
+  Amazon's Climate Pledge Fund and Microsoft's Climate Innovation Fund, and
+  signed a multi-year fleet partnership with Sunbelt Rentals. After delivering
+  400+ units it announced cessation of operations on July 29, 2024, laid off
+  its entire workforce, and filed for Chapter 7 bankruptcy in the District of
+  Delaware in August 2024 with approximately $201,980 in cash on hand and
+  estimated liabilities of $100M–$500M. In September–October 2024, Viridi
+  Parente acquired Moxion's Richmond facility, battery inventory,
+  intellectual property, patents, and the Sunbelt Rentals relationship through
+  the bankruptcy auction for approximately $7 million. Moxion Power had no
+  public developer API, SDK, or open source release; its GitHub organization
+  (github.com/moxion-power) contains zero public repositories. This profile is
+  preserved for historical reference.
+type: Index
+position: Provider
+access: Defunct
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Energy Storage
+  - Battery Energy Storage System
+  - Mobile Battery
+  - Lithium Iron Phosphate
+  - Clean Energy
+  - Diesel Generator Replacement
+  - Construction
+  - Film Production
+  - Live Events
+  - Hardware
+  - Defunct
+  - Bankruptcy
+x-status: defunct
+x-status-date: '2024-08-09'
+x-status-note: >-
+  Filed Chapter 7 bankruptcy in the District of Delaware in August 2024 after
+  ceasing operations on 29 July 2024. Core assets (Richmond factory,
+  inventory, IP, patents, Sunbelt Rentals contract) acquired by Viridi Parente
+  in September–October 2024 for approximately $7M.
+url: https://raw.githubusercontent.com/api-evangelist/moxion-power/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.moxionpower.com
+  - type: GitHub
+    url: https://github.com/moxion-power
+  - type: Twitter
+    url: https://twitter.com/MoxionPower
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/moxion-power-co
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/moxion-power-co
+  - type: Successor
+    url: https://viridiparente.com/moxion-inquire/
+  - type: BankruptcyCoverage
+    url: https://www.latitudemedia.com/news/portable-battery-startup-moxion-is-bankrupt-what-happened/
+  - type: AcquisitionCoverage
+    url: https://www.grandviewindependent.com/viridi-powers-into-richmond-replaces-moxion/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
