@@ -51,6 +51,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/moxion-power-domain-security.yml
   - type: Website
     url: https://www.moxionpower.com
   - type: GitHub
@@ -67,6 +69,8 @@ common:
     url: https://www.latitudemedia.com/news/portable-battery-startup-moxion-is-bankrupt-what-happened/
   - type: AcquisitionCoverage
     url: https://www.grandviewindependent.com/viridi-powers-into-richmond-replaces-moxion/
+  - url: https://viridiparente.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
